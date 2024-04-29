@@ -1,6 +1,4 @@
-#!/app/runring.sh -cgi
-
-load 'reuse_heritage_api/miniweblib.ring'
+#!runring.sh -cgi
 
 see 'content-type:text/html'+nl+nl
 
