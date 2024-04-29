@@ -1,0 +1,7 @@
+unixodbc
+unixodbc-dev
+libmysqlclient-dev
+libcurl4-gnutls-dev
+libssl-dev
+libpq-dev
+:repo:deb http://old-releases.ubuntu.com/ubuntu artful main universe
